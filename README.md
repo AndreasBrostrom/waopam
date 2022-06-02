@@ -20,7 +20,9 @@ waopam search git
 waopam git
 ```
 
+```bat
 waopam update               # updates database
+```
 
 ```bat
 waopam upgrade
